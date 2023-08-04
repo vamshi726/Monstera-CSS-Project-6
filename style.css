@@ -1,0 +1,160 @@
+*{
+  /* background-color: #6f6f6f; */
+  margin: 0;
+  padding: 0;
+  font-family: Allerta;
+}
+
+#navbarMonstera{
+    /* border: 5px solid red; */
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+  font-family: Allerta;
+
+  }
+
+  #navMid{
+    display: flex;
+
+  }
+  #navFirst > img{
+    position: relative;
+    /* border: 5px solid blue; */
+    height: 40px;
+    left: 25px;
+
+  }
+#navMid img{
+  max-width: fit-content;
+}
+
+  div h4{
+    /* border: 5px solid green; */
+    padding: 20px;
+  }
+
+  #navEnd{
+    /* border: 5px solid blue; */
+    display: flex;
+    justify-content: space-between;
+    /* padding: 60px; */
+    align-items: center;
+  }
+  #navEnd img{
+    padding: 20px;
+  }
+
+  #monstera{
+  font-family: Montserrat;
+  font-size: 100px;
+  /* font-weight: 20px; */
+    
+  }
+
+  #midWholePart121 > div > h1{
+    font-weight: 5;
+    display: inline;
+    position: relative;
+
+  }
+
+  #midWholePart121{
+    display: flex;
+    align-items: center;
+  }
+  #midWholePart13{
+    display: flex;
+    font-family: Monserrat;
+    
+  }
+  
+  #midWhole{
+    position: relative;
+    display: flex;
+    
+  }
+  
+  #midWhole #imgMain{
+    height: 635px;
+    width: 500px;
+    
+      /* border: 5px solid blue; */
+  }
+  
+
+  #midWholePart12{
+    background-color: #2f7344;
+display: inline-block;
+border-radius: 40px;
+color: white;
+font-family: Allerta;
+margin: 50px;
+padding: 10px  30px ;
+align-items: center;
+
+    }
+
+
+    #midWholePart1{
+      position: relative;
+      padding-top: 120px;
+      padding-left: 60px;
+
+    }
+
+   
+  #midWholePart13 img{
+    max-width: 45px;
+    float: left;
+    display: inline-block ;
+    position: relative;
+  
+      /* border: 5px solid blue; */
+    align-items: center;
+    top:30px;
+    
+  }
+
+h4{
+
+    float: left;
+    font-size: 15px;
+    position: relative;
+    
+  }
+
+.text{
+ float: left;
+ font-size: 10px;
+
+  color: #4e4e4e;
+}
+
+
+    #midWholePart122>img{
+      max-width: 10px;
+     position: relative;
+     top: 3px;
+     left: 15px;
+     font-size: 20x;
+    }
+
+    .lorem{
+      color: #414141;
+    }
+
+
+
+.text{
+  position: relative;
+  left: 55px;
+  width: 70px;
+}
+
+
+#midWholePart13{
+  display: flex;
+  align-items: center ;
+} 
